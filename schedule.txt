@@ -1,0 +1,1 @@
+c:\Users\MARPOSS\AppData\Local\Programs\Python\Python39\Python.exe "c:/users/desktop/automation.py" pause
